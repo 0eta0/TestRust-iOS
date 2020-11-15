@@ -1,9 +1,9 @@
 ## How to run Rust code on iOS
 
-First, go to rust directory, and create library.
-next, import universal library into xcode (Build Phases > Link Binary With Libraries).
+First, go to rust directory, and create library.  
+Next, import universal library into xcode (Build Phases > Link Binary With Libraries).  
 
-after that, run your app. 
+After that, run your app. 
 
 ## Reference
 
